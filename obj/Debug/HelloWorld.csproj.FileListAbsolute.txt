@@ -6,3 +6,11 @@ D:\visual studio\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBind
 D:\visual studio\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 D:\visual studio\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\visual studio\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Repository\bin\Debug\HelloWorld.exe.config
+D:\Repository\bin\Debug\HelloWorld.exe
+D:\Repository\bin\Debug\HelloWorld.pdb
+D:\Repository\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Repository\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\Repository\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Repository\obj\Debug\HelloWorld.exe
+D:\Repository\obj\Debug\HelloWorld.pdb
