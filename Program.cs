@@ -11,11 +11,6 @@ namespace HelloWorld
         public static void Main()
         {
             WriteTextWithBorder("Menu:");
-            WriteTextWithBorder("");
-            WriteTextWithBorder(" ");
-            WriteTextWithBorder("Game Over!");
-            WriteTextWithBorder("Select level:");
-            WriteTextWithBorder("I'm changed that!!!");
         }
 
         private static void WriteTextWithBorder(string text)
