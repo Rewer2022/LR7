@@ -11,22 +11,21 @@ namespace HelloWorld
         public static void Main()
         {
             WriteTextWithBorder("Menu:");
-            WriteTextWithBorder("");
-            WriteTextWithBorder(" ");
-            WriteTextWithBorder("Game Over!");
-            WriteTextWithBorder("Select level:");
-            WriteTextWithBorder("I'm changed that!!!");
         }
 
         private static void WriteTextWithBorder(string text)
         {
             string a = "=";
+            string b = "";
             for (int i = 0; i < text.Length + 2; i++)
             {
-                a += ("-");
+                a += "-";
+                b += " ";
             }
             Console.WriteLine(a + "=");
+            Console.WriteLine("|" + b + "|");
             Console.WriteLine("| " + text + " |");
+            Console.WriteLine("|" + b + "|");
             Console.WriteLine(a + "=");
         }
     } 
